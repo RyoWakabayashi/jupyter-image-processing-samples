@@ -16,6 +16,6 @@
 
 [opencv-load-save]: samples/opencv/load_and_save.ipynb
 [opencv-rotate-flip]: samples/opencv/rotate_and_flip.ipynb
-[pillow-load-save]: samples/opencv/load_and_save.ipynb
-[pillow-rotate-flip]: samples/opencv/rotate_and_flip.ipynb
+[pillow-load-save]: samples/pillow/load_and_save.ipynb
+[pillow-rotate-flip]: samples/pillow/rotate_and_flip.ipynb
 [opencv-pillow]: samples/opencv-pillow/convert.ipynb
